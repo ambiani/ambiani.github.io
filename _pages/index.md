@@ -11,7 +11,7 @@ permalink: /
 
 # {{ site.title }} is a <span class="block">digital garden<span>.
 
-## a [[digital garden]] is a space for thinking through, <span class="block-desktop">building upon, and coming back to.</span>
+## a [[about]] is a space for thinking through, <span class="block-desktop">building upon, and coming back to.</span>
 
 <!-- {% include button.html buttonLabel="See latest &#8594;" destinationURL="changelog" %} -->
 
